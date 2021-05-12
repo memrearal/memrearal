@@ -39,6 +39,7 @@ I started my coding adventure by learning HTML, CSS and JavaScript as my first s
 [![Code : SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![Code : MongoDB](https://img.shields.io/badge/MongoDB-limegreen?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Code : Mongoose](https://img.shields.io/badge/Mongoose-darkred?style=flat-square&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![Code : jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Code : AngularJS](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angularjs.org/)
 [![Code : axios](https://img.shields.io/badge/Axios-blue?style=flat-square&logo=axios&logoColor=white)](https://github.com/axios/axios)
 [![Code : mobx](https://img.shields.io/badge/Mobx-darkorange?style=flat-square&logo=mobx&logoColor=white)](https://mobx.js.org/README.html)
@@ -56,4 +57,4 @@ I started my coding adventure by learning HTML, CSS and JavaScript as my first s
 
 <br>
 
-![Code : Emre](http://ForTheBadge.com/images/badges/built-with-love.svg)(https://memrearal.com/)
+[![Code : Emre](http://ForTheBadge.com/images/badges/built-with-love.svg)(https://memrearal.com/)]
