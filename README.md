@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <p>
-  I am a passionate developer who has experience with Python, C, C#, PHP, JavaScript, React, Node.js and React Native. I have been developing lots of projects. I have experience (quite or partially) in all areas where JavaScript is used (Mobile, Web, Server, etc...).
+  I am a passionate developer who has experience with Python, C, C#, PHP, JavaScript, React, Node.js, Next.js and React Native. I have been developing lots of projects. I have experience (quite or partially) in all areas where JavaScript is used (Mobile, Web, Server, etc...).
 </p>
 <br>
 
@@ -33,6 +33,7 @@ I started my coding adventure by learning HTML, CSS and JavaScript as my first s
 [![Code : Redux](https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Code : NodeJS](https://img.shields.io/badge/Node.js-forestgreen?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![Code : Express](https://img.shields.io/badge/Express-mintcream?style=flat-square&logo=express&logoColor=black)](https://expressjs.com/)
+[![Code : NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Code : Postman](https://img.shields.io/badge/Postman-tomato?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Code : MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Code : PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
