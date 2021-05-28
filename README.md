@@ -25,6 +25,7 @@ I started my coding adventure by learning HTML, CSS and JavaScript as my first s
 [![Code : Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Code : Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Code : JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/tr/docs/Web/JavaScript)
+[![Code : TypeScript](https://flat.badgen.net/badge/icon/TypeScript?icon=typescript&label&labelColor=blue&color=555555)](https://www.typescriptlang.org/)
 [![Code : HTML5](https://img.shields.io/badge/HTML5-chocolate?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/tr/docs/Web/HTML)
 [![Code : CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/tr/docs/Web/CSS)
 [![Code : React](https://img.shields.io/badge/React-deepskyblue?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
