@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 <p>
-  I am a passionate developer who has experience with Python, C, C#, PHP, JavaScript, React, Node.js, Next.js and React Native. I have been developing lots of projects. I have experience (quite or partially) in all areas where JavaScript is used (Mobile, Web, Server, etc...).
+  I am a passionate developer who has experience with Python, C, C#, PHP, JavaScript, React, Node.js, Next.js and React Native. I have been developing lots of projects. I have experience (quite or partially) in all areas where JavaScript is used (Mobile, Web, Server, etc...). I am currently focusing on Competitive programming.
 </p>
 <br>
 
