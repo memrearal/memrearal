@@ -59,4 +59,4 @@ I started my coding adventure by learning HTML, CSS and JavaScript as my first s
 
 <br>
 
-[![Code : Emre](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://memrearal.com/)
+[![Code : Emre](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://memrearal.me/)
