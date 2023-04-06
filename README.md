@@ -1,18 +1,10 @@
 ### Welcome 👋
 
+https://memrearal.com
+
 <p>
-  I am a passionate developer who has experience with Python, C, C#, PHP, JavaScript, React, Node.js, Next.js and React Native. I have been developing lots of projects. I have experience (quite or partially) in all areas where JavaScript is used (Mobile, Web, Server, etc...). I am currently focusing on Competitive programming.
+  I'm a passionate developer with more than 12+ years of experience in a variety of domains. For the past few years, I've focused on mobile application development, highload server-side projects, distributed systems, and platform development - tinkering with infrastructure, network management, blockchain systems, web3.0 and etc. I have experience (quite or partially) in all areas where JavaScript is used (in short, all areas :-)). Focused on competitive programming & cyber security.
 </p>
-<br>
-
----
-
-<br>
-
-### My developer journey :earth_africa:
-
-I started my coding adventure by learning HTML, CSS and JavaScript as my first step. Then I started learning PHP because I wanted to create a dynamic website. I experienced and reinforced the basic concepts of coding. Then I stepped into the JavaScript world and learned jQuery and Angular for Web. Then I discovered NodeJS and enjoyed it. I entered the mobile development area with React Native. I decided to continue with React and developed several mobile and web projects using React Native and React. I learned Python and C languages in university.
-
 <br>
 
 ---
@@ -55,8 +47,10 @@ I started my coding adventure by learning HTML, CSS and JavaScript as my first s
 [![Code : Bootstrap](https://img.shields.io/badge/Bootstrap-darkorchid?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Code : SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com)
 
+and much more...
+
 ---
 
 <br>
 
-[![Code : Emre](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://memrearal.me/)
+[![Code : Emre](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://memrearal.com/)
